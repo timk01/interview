@@ -1,1 +1,1 @@
-Задача с собеса на ООП. 
+Repo for mocking interview/tasks
